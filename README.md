@@ -1,5 +1,9 @@
 <h1 align="center">Olá, eu sou o João Pedro Silva👋</h1>
 
+<p align="center">
+  <img src="#" alt="Eu" width="200"/>
+</p>
+
 <!--
 **JoaoPedroSilvaDEV2024/JoaoPedroSilvaDEV2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
