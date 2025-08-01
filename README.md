@@ -2,9 +2,9 @@
 
 ## Sobre Mim
 
-Sou um Desenvolvedor Front-End dedicado, com mais de 3 anos de experiência em construção de aplicações web modernas e escaláveis. Especialista em **JavaScript**, **React** e **TypeScript**, atuo na criação de interfaces intuitivas e acessíveis que proporcionam experiências excepcionais para os usuários.
+Sou um Desenvolvedor Full Stack dedicado, com mais de 2 anos de experiência em construção de aplicações web modernas e escaláveis. Especialista em **HTML**, **CSS** e **JavaScript**, atuo na criação de interfaces intuitivas e acessíveis que proporcionam experiências excepcionais para os usuários.
 
-Tenho paixão por aprender novas tecnologias e metodologias que agreguem valor aos projetos. Atualmente, foco em **Next.js**, **GraphQL** e **Design Systems**, buscando integrar inovação e eficiência ao meu trabalho.
+Tenho paixão por aprender novas tecnologias e metodologias que agreguem valor aos projetos. Atualmente, foco em **Python**, **Banco de Dados** e **Design UX e UI**, buscando integrar inovação e eficiência ao meu trabalho.
 
 Sou comprometido com a entrega de código limpo, testável e bem documentado, sempre alinhado às melhores práticas do mercado. Valorizo o trabalho colaborativo e a comunicação clara para a construção de soluções robustas.
 
@@ -12,11 +12,11 @@ Sou comprometido com a entrega de código limpo, testável e bem documentado, se
 
 ## Resumo Executivo
 
-- **Experiência:** +3 anos em desenvolvimento front-end, com histórico em projetos variados — desde startups até empresas consolidadas.
-- **Especialidades Técnicas:** React, TypeScript, Next.js, GraphQL, Node.js, MongoDB, MySQL.
+- **Experiência:** +2 anos em desenvolvimento full stack, com histórico em projetos variados.
+- **Especialidades Técnicas:** Html, Css, JavaScript, Python, React, TypeScript, Next.js, MySQL e etc.
 - **Soft Skills:** Proatividade, comunicação eficaz, trabalho em equipe, liderança técnica, resolução de problemas.
 - **Metodologias:** Agile (Scrum, Kanban), DevOps básico, CI/CD, TDD/BDD.
-- **Idiomas:** Português (nativo), Inglês (avançado).
+- **Idiomas:** Português (nativo), Inglês (básico).
 
 ---
 
