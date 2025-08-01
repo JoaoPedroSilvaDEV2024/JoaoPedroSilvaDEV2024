@@ -50,10 +50,12 @@ Sou comprometido com a entrega de código limpo, testável e bem documentado, se
 
 ## Projetos Relevantes
 
-- [**Task Manager**](#): Plataforma para gerenciamento eficiente de tarefas, com backend em Node.js, frontend em React e banco MongoDB. Inclui autenticação JWT, controle de permissões e notificações.
-- [**E-commerce Next.js**](#): Loja online otimizada para SEO e performance, com integração de gateway de pagamento e painel administrativo.
-- [**Blog Platform**](#): Sistema completo para criação e publicação de conteúdos, desenvolvido com TypeScript e Express, com sistema de comentários e moderação.
-- [**Chat em Tempo Real**](#): Aplicativo de mensagens instantâneas utilizando React e Socket.io, com interface responsiva e sistema de notificações push.
+- [**Portfólio Pessoal**](#): Página pessoal desenvolvida com **HTML5**, **CSS3** e **JavaScript**, apresentando projetos, habilidades e informações de contato. Design responsivo e foco em performance e acessibilidade.
+- [**Jogo da Memória**](#): Jogo interativo criado com **JavaScript puro**, contendo lógica de pareamento de cartas, cronômetro e sistema de pontuação. Interface animada com transições em **CSS**.
+- [**Calculadora**](#): Calculadora funcional desenvolvida com **HTML**, **CSS** e **JavaScript**, incluindo operações básicas, tratamento de erros e atualização dinâmica do visor.
+- [**Jogo de Super Trunfo**](#): Versão do jogo clássico "Super Trunfo", utilizando **JavaScript Vanilla** para lógica de jogo, manipulação de DOM e controle de cartas, com visual estilizado em **CSS**.
+- [**Site Institucional**](#): Site estático de apresentação empresarial, desenvolvido com **HTML** e **CSS3**, incluindo seções de serviços, equipe, formulário de contato e integração com mapa do Google.
+
 
 ---
 
