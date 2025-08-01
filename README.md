@@ -33,8 +33,8 @@ Sou comprometido com a entrega de código limpo, testável e bem documentado, se
 - [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/) MySQL  
 - [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) Git / GitHub  
 - [![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/) Figma
-- [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)](https://www.canva.com/) Canva  
-
+- [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)](https://www.canva.com/) Canva
+- [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/) Linux
 
 ---
 
