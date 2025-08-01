@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o João Pedro Silva👋</h1>
 
 <p align="center">
-  <img src="#" alt="Eu" width="200"/>
+  <img src="https://github.com/JoaoPedroSilvaDEV2024/JoaoPedroSilvaDEV2024/assets/eu.jfif" alt="Eu" width="200"/>
 </p>
 
 <!--
