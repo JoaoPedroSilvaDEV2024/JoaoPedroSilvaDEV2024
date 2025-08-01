@@ -59,24 +59,6 @@ Sou comprometido com a entrega de código limpo, testável e bem documentado, se
 
 ---
 
-## Educação & Certificações
-
-- Bacharel em Ciência da Computação — Universidade XYZ (2018)
-- Certificação React Avançado — Platzi
-- Certificação Node.js — Udemy
-- Certificação Desenvolvimento Front-End — FreeCodeCamp
-- Curso de Git e GitHub — Coursera
-
----
-
-## Participação e Contribuições
-
-- Participante ativo em meetups e conferências de tecnologia, incluindo React Conf e Front-End Summit.
-- Contribuições open source em projetos focados em acessibilidade e performance.
-- Mentor voluntário em programas de formação de novos desenvolvedores.
-
----
-
 ## Soft Skills
 
 - Comunicação clara e objetiva
