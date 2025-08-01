@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Petinelson 👋</h1>
+<h1 align="center">Olá, eu sou o João Pedro Silva👋</h1>
 
 <!--
 **JoaoPedroSilvaDEV2024/JoaoPedroSilvaDEV2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
