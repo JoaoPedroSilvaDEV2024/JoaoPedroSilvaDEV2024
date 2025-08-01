@@ -15,7 +15,7 @@ Sou comprometido com a entrega de código limpo, testável e bem documentado, se
 - **Experiência:** +2 anos em desenvolvimento full stack, com histórico em projetos variados.
 - **Especialidades Técnicas:** Html, Css, JavaScript, Python, React, TypeScript, Next.js, MySQL e etc.
 - **Soft Skills:** Proatividade, comunicação eficaz, trabalho em equipe, liderança técnica, resolução de problemas.
-- **Metodologias:** Agile (Scrum, Kanban), DevOps básico, CI/CD, TDD/BDD.
+- **Metodologias:** Agile (Scrum, Kanban).
 - **Idiomas:** Português (nativo), Inglês (básico).
 
 ---
