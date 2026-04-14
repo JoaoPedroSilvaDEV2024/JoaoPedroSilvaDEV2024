@@ -1,97 +1,132 @@
-# Olá, eu sou João Pedro Silva! 👋
+<h1 align="center">Olá, eu sou João Pedro Silva 👋</h1>
 
-## Sobre Mim
+<p align="center">
+💻 Desenvolvedor Full Stack <br>
+🚀 Focado em soluções reais e escaláveis <br>
+📈 Em constante evolução
+</p>
 
-Sou um Desenvolvedor Full Stack dedicado, com mais de 2 anos de experiência em construção de aplicações web modernas e escaláveis. Especialista em **HTML**, **CSS** e **JavaScript**, atuo na criação de interfaces intuitivas e acessíveis que proporcionam experiências excepcionais para os usuários.
-
-Tenho paixão por aprender novas tecnologias e metodologias que agreguem valor aos projetos. Atualmente, foco em **Python**, **Banco de Dados** e **Design UX e UI**, buscando integrar inovação e eficiência ao meu trabalho.
-
-Sou comprometido com a entrega de código limpo, testável e bem documentado, sempre alinhado às melhores práticas do mercado. Valorizo o trabalho colaborativo e a comunicação clara para a construção de soluções robustas.
-
----
-
-## Resumo Executivo
-
-- **Experiência:** +2 anos em desenvolvimento full stack, com histórico em projetos variados.
-- **Especialidades Técnicas:** Html, Css, JavaScript, Python, React, TypeScript, Next.js, MySQL e etc.
-- **Soft Skills:** Proatividade, comunicação eficaz, trabalho em equipe, liderança técnica, resolução de problemas.
-- **Metodologias:** Agile (Scrum, Kanban).
-- **Idiomas:** Português (nativo), Inglês (básico).
+<p align="center">
+<a href="https://github.com/seuusername"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
+<a href="https://linkedin.com/in/joaosilva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:seu.email@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-## Tecnologias & Ferramentas
+## 🚀 Sobre mim  
 
-- [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) HTML5  
-- [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) CSS3
-- [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) Python
-- [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) JavaScript (ES6+)  
-- [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) TypeScript  
-- [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/) React.js  
-- [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) Node.js  
-- [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/) MySQL  
-- [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) Git / GitHub  
-- [![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/) Figma
-- [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)](https://www.canva.com/) Canva
-- [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/) Linux
+Desenvolvedor Full Stack com experiência prática na construção de aplicações web modernas, atuando no front-end e back-end.  
+
+🎯 Meu foco é **resolver problemas reais através de tecnologia**, criando sistemas eficientes, escaláveis e com ótima experiência para o usuário.  
+
+📚 Atualmente estudando:
+- Python avançado  
+- Banco de dados e performance  
+- Arquitetura de sistemas  
+- UX/UI  
 
 ---
 
-## Metodologia de Trabalho
+## 📊 Resumo Profissional  
 
-- Planejamento ágil com foco em entregas iterativas e incrementais.
-- Testes automatizados para garantir estabilidade e qualidade.
-- Prática constante de code review para melhoria contínua.
-- Documentação clara para facilitar manutenção e onboarding.
-- Uso de integração contínua e deploy automatizado.
-- Comunicação transparente com stakeholders e equipes multidisciplinares.
-
----
-
-## Projetos Relevantes
-
-- [**Portfólio Pessoal**](#): Página pessoal desenvolvida com **HTML5**, **CSS3** e **JavaScript**, apresentando projetos, habilidades e informações de contato. Design responsivo e foco em performance e acessibilidade.
-- [**Jogo da Memória**](#): Jogo interativo criado com **JavaScript puro**, contendo lógica de pareamento de cartas, cronômetro e sistema de pontuação. Interface animada com transições em **CSS**.
-- [**Calculadora**](#): Calculadora funcional desenvolvida com **HTML**, **CSS** e **JavaScript**, incluindo operações básicas, tratamento de erros e atualização dinâmica do visor.
-- [**Jogo de Super Trunfo**](#): Versão do jogo clássico "Super Trunfo", utilizando **JavaScript Vanilla** para lógica de jogo, manipulação de DOM e controle de cartas, com visual estilizado em **CSS**.
-- [**Site Institucional**](#): Site estático de apresentação empresarial, desenvolvido com **HTML** e **CSS3**, incluindo seções de serviços, equipe, formulário de contato e integração com mapa do Google.
-
+✔️ +2 anos de experiência  
+✔️ Desenvolvimento full stack  
+✔️ Aprendizado rápido  
+✔️ Foco em resultado  
+✔️ Boa comunicação  
 
 ---
 
-## Soft Skills
+## 🛠️ Tecnologias  
 
-- Comunicação clara e objetiva
-- Trabalho colaborativo em times multidisciplinares
-- Proatividade e autonomia
-- Resolução analítica de problemas
-- Gestão de tempo e organização
+### 💻 Front-end
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+</p>
 
----
+### ⚙️ Back-end
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,python" />
+</p>
 
-## Estatísticas no GitHub
+### 🗄️ Banco de Dados
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
 
-![GitHub Stats](#)
-
----
-
-## Contato
-
-- 📧 E-mail: [seu.email@exemplo.com](#)
-- 🌐 Portfólio: [www.seuportfolio.com](#)
-- 💼 LinkedIn: [linkedin.com/in/joaosilva](#)
-- 🐦 Twitter: [twitter.com/joaosilva](#)
-- GitHub: [github.com/seuusername](#)
+### 🔧 Ferramentas
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,figma" />
+</p>
 
 ---
 
-## Vamos Conversar? 🤝
+## ⚙️ Como eu trabalho  
 
-Busco constantemente novos desafios e oportunidades para agregar valor e crescer profissionalmente. Se quiser discutir projetos, parcerias ou compartilhar conhecimento, estou à disposição para conversar.
+- 🧹 Código limpo e organizado  
+- ⚡ Foco em performance  
+- 🔌 Criação de APIs REST  
+- 🔁 Versionamento com Git  
+- 📊 Metodologias ágeis (Scrum / Kanban)  
+- 🤝 Comunicação clara com o time  
 
 ---
 
-**Obrigado pela visita! Vamos juntos transformar ideias em soluções incríveis. 🚀**
+## 💡 Projetos em Destaque  
+
+### 🧠 SpendAI (Machine Learning)
+Sistema inteligente de previsão de gastos com Python e análise de dados.  
+
+### 🛒 Painel E-commerce
+Sistema completo com CRUD, API e integração com banco de dados.  
+
+### 🌐 Portfólio Pessoal
+Site responsivo com foco em UX/UI e performance.  
+
+### 🎮 Projetos em JavaScript
+Jogos e aplicações interativas com manipulação de DOM.  
+
+---
+
+## 📈 Estatísticas  
+
+<p align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 🧠 Diferenciais  
+
+🚀 Executo projetos completos (front + back)  
+🎯 Foco em entregar valor  
+📈 Evolução constante  
+💡 Mentalidade de solução  
+
+---
+
+## 📫 Contato  
+
+📧 seu.email@exemplo.com  
+💼 https://linkedin.com/in/joaosilva  
+🌐 https://seuportfolio.com  
+💻 https://github.com/seuusername  
+
+---
+
+## 🤝 Vamos trabalhar juntos?  
+
+Estou aberto a oportunidades como desenvolvedor, freelancer ou projetos desafiadores.  
+
+Se você procura alguém que aprende rápido, entrega resultado e resolve problemas, vamos conversar.  
+
+---
+
+<p align="center">
+🔥 <strong>Transformando ideias em soluções reais</strong> 🔥
+</p>
 
 <!--
 **JoaoPedroSilvaDEV2024/JoaoPedroSilvaDEV2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
