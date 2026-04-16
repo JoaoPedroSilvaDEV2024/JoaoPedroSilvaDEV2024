@@ -110,9 +110,9 @@ Jogos e aplicações interativas com manipulação de DOM.
 ## 📫 Contato  
 
 📧 seu.email@exemplo.com  
-💼 https://linkedin.com/in/joaosilva  
-🌐 https://seuportfolio.com  
-💻 https://github.com/seuusername  
+💼 # 
+🌐 #
+💻 #
 
 ---
 
