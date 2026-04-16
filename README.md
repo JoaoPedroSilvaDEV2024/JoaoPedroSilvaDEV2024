@@ -30,7 +30,7 @@ Desenvolvedor Full Stack com experiência prática na construção de aplicaçõ
 
 ## 📊 Resumo Profissional  
 
-✔️ +2 anos de experiência  
+✔️ +3 anos de experiência  
 ✔️ Desenvolvimento full stack  
 ✔️ Aprendizado rápido  
 ✔️ Foco em resultado  
