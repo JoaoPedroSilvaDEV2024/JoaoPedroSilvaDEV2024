@@ -1,87 +1,116 @@
 <h1 align="center">João Pedro Silva</h1>
 
 <p align="center">
-Desenvolvedor Full Stack | Sistemas Web | APIs | Aplicações Escaláveis
+<span style="color:#58a6ff;">Full Stack Developer</span> • Web Systems • APIs • Scalable Applications
 </p>
 
 <p align="center">
-<a href="https://github.com/seuusername"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
-<a href="https://linkedin.com/in/joaosilva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:seu.email@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/seuusername"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://linkedin.com/in/joaosilva"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:seu.email@exemplo.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-## Visão Geral
+## 🚀 Sobre mim
 
-Desenvolvedor Full Stack com foco no desenvolvimento de aplicações web modernas, atuando no front-end e back-end.
+Sou desenvolvedor Full Stack focado em criar **sistemas modernos, escaláveis e bem estruturados**.
 
-Experiência na construção de sistemas funcionais, escaláveis e com boa experiência de usuário, aplicando boas práticas de engenharia de software.
-
-Atualmente aprofundando conhecimentos em arquitetura de sistemas, performance e aplicações orientadas a dados.
+Atuo no desenvolvimento de aplicações web completas, conectando front-end, back-end e banco de dados com foco em performance e boa experiência de usuário.
 
 ---
 
-## Foco de Atuação
+## ⚡ Especialidades
 
-- Desenvolvimento de aplicações web (Front-end e Back-end)
-- Criação e integração de APIs REST
-- Modelagem e otimização de banco de dados
-- Arquitetura de software e código limpo
-- Desenvolvimento com foco em performance
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Front--end-4CAF50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Back--end-2196F3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/APIs-9C27B0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Banco%20de%20Dados-FF9800?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Performance-00BCD4?style=for-the-badge" />
 
-## Tecnologias
-
-**Front-end:** HTML, CSS, JavaScript, TypeScript, React, Next.js  
-**Back-end:** Node.js, Python, APIs REST  
-**Banco de Dados:** MySQL, PostgreSQL  
-**Ferramentas:** Git, GitHub, Linux, Figma  
+</p>
 
 ---
 
-## Experiência Prática
+## 🧠 Tecnologias
 
-- Desenvolvimento de aplicações full stack com autenticação, CRUD e APIs
-- Criação de APIs REST estruturadas
-- Modelagem de bancos de dados relacionais
-- Controle de versão com Git em projetos reais
-- Aplicação de boas práticas de organização e manutenção de código
+### Front-end
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+</p>
 
----
+### Back-end
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,python" />
+</p>
 
-## Projetos
+### Banco de dados
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
 
-### SpendAI
-Sistema de análise e previsão de gastos utilizando Python e análise de dados.
-
-### Painel de E-commerce
-Sistema completo com CRUD, API e integração com banco de dados.
-
-### Portfólio Pessoal
-Site responsivo com foco em desempenho, organização e experiência do usuário.
-
-### Projetos JavaScript
-Aplicações interativas e jogos com manipulação do DOM.
+### Ferramentas
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,figma" />
+</p>
 
 ---
 
-## Disponibilidade
+## 💼 Experiência prática
 
-Aberto a oportunidades como:
-- Desenvolvedor Full Stack
-- Projetos freelancer
-- Trabalho remoto
-- Desafios em desenvolvimento de software
+- Desenvolvimento de aplicações full stack completas
+- Criação de APIs REST com arquitetura estruturada
+- Integração com bancos de dados relacionais
+- Implementação de autenticação e CRUD
+- Versionamento com Git em projetos reais
+- Aplicação de boas práticas de código limpo
 
 ---
 
-## Contato
+## 🧩 Projetos em destaque
 
-Email: seu.email@exemplo.com  
-LinkedIn: linkedin.com/in/joaosilva  
-GitHub: github.com/seuusername  
+### 🧠 SpendAI
+Sistema de análise de gastos com Python e foco em dados.
+
+### 🛒 Painel E-commerce
+Sistema completo com CRUD, API e banco de dados integrado.
+
+### 🌐 Portfólio Pessoal
+Site responsivo com foco em UI/UX e performance.
+
+### 🎮 Projetos JavaScript
+Aplicações interativas e jogos com lógica e DOM.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 Objetivo
+
+Atuar como desenvolvedor Full Stack em projetos desafiadores, contribuindo com soluções eficientes, escaláveis e bem estruturadas.
+
+---
+
+## 📫 Contato
+
+📧 seu.email@exemplo.com  
+💼 linkedin.com/in/joaosilva  
+💻 github.com/seuusername  
+
+---
+
+<p align="center">
+🔥 <b>Construindo sistemas com qualidade, performance e propósito</b>
+</p>
 <!--
 **JoaoPedroSilvaDEV2024/JoaoPedroSilvaDEV2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
