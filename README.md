@@ -1,9 +1,7 @@
-<h1 align="center">Olá, eu sou João Pedro Silva 👋</h1>
+<h1 align="center">João Pedro Silva</h1>
 
 <p align="center">
-💻 Desenvolvedor Full Stack <br>
-🚀 Focado em soluções reais e escaláveis <br>
-📈 Em constante evolução
+Desenvolvedor Full Stack | Sistemas Web | APIs | Aplicações Escaláveis
 </p>
 
 <p align="center">
@@ -14,120 +12,76 @@
 
 ---
 
-## 🚀 Sobre mim  
+## Visão Geral
 
-Desenvolvedor Full Stack com experiência prática na construção de aplicações web modernas, atuando no front-end e back-end.  
+Desenvolvedor Full Stack com foco no desenvolvimento de aplicações web modernas, atuando no front-end e back-end.
 
-🎯 Meu foco é **resolver problemas reais através de tecnologia**, criando sistemas eficientes, escaláveis e com ótima experiência para o usuário.  
+Experiência na construção de sistemas funcionais, escaláveis e com boa experiência de usuário, aplicando boas práticas de engenharia de software.
 
-📚 Atualmente estudando:
-- Python avançado  
-- Banco de dados e performance  
-- Arquitetura de sistemas  
-- UX/UI  
+Atualmente aprofundando conhecimentos em arquitetura de sistemas, performance e aplicações orientadas a dados.
 
 ---
 
-## 📊 Resumo Profissional  
+## Foco de Atuação
 
-✔️ +3 anos de experiência  
-✔️ Desenvolvimento full stack  
-✔️ Aprendizado rápido  
-✔️ Foco em resultado  
-✔️ Boa comunicação  
-
----
-
-## 🛠️ Tecnologias  
-
-### 💻 Front-end
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
-</p>
-
-### ⚙️ Back-end
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,python" />
-</p>
-
-### 🗄️ Banco de Dados
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
-
-### 🔧 Ferramentas
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,figma" />
-</p>
+- Desenvolvimento de aplicações web (Front-end e Back-end)
+- Criação e integração de APIs REST
+- Modelagem e otimização de banco de dados
+- Arquitetura de software e código limpo
+- Desenvolvimento com foco em performance
 
 ---
 
-## ⚙️ Como eu trabalho  
+## Tecnologias
 
-- 🧹 Código limpo e organizado  
-- ⚡ Foco em performance  
-- 🔌 Criação de APIs REST  
-- 🔁 Versionamento com Git  
-- 📊 Metodologias ágeis (Scrum / Kanban)  
-- 🤝 Comunicação clara com o time  
+**Front-end:** HTML, CSS, JavaScript, TypeScript, React, Next.js  
+**Back-end:** Node.js, Python, APIs REST  
+**Banco de Dados:** MySQL, PostgreSQL  
+**Ferramentas:** Git, GitHub, Linux, Figma  
 
 ---
 
-## 💡 Projetos em Destaque  
+## Experiência Prática
 
-### 🧠 SpendAI (Machine Learning)
-Sistema inteligente de previsão de gastos com Python e análise de dados.  
-
-### 🛒 Painel E-commerce
-Sistema completo com CRUD, API e integração com banco de dados.  
-
-### 🌐 Portfólio Pessoal
-Site responsivo com foco em UX/UI e performance.  
-
-### 🎮 Projetos em JavaScript
-Jogos e aplicações interativas com manipulação de DOM.  
+- Desenvolvimento de aplicações full stack com autenticação, CRUD e APIs
+- Criação de APIs REST estruturadas
+- Modelagem de bancos de dados relacionais
+- Controle de versão com Git em projetos reais
+- Aplicação de boas práticas de organização e manutenção de código
 
 ---
 
-## 📈 Estatísticas  
+## Projetos
 
-<p align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical"/>
-</p>
+### SpendAI
+Sistema de análise e previsão de gastos utilizando Python e análise de dados.
 
----
+### Painel de E-commerce
+Sistema completo com CRUD, API e integração com banco de dados.
 
-## 🧠 Diferenciais  
+### Portfólio Pessoal
+Site responsivo com foco em desempenho, organização e experiência do usuário.
 
-🚀 Executo projetos completos (front + back)  
-🎯 Foco em entregar valor  
-📈 Evolução constante  
-💡 Mentalidade de solução  
+### Projetos JavaScript
+Aplicações interativas e jogos com manipulação do DOM.
 
 ---
 
-## 📫 Contato  
+## Disponibilidade
 
-📧 seu.email@exemplo.com  
-💼 # 
-🌐 #
-💻 #
-
----
-
-## 🤝 Vamos trabalhar juntos?  
-
-Estou aberto a oportunidades como desenvolvedor, freelancer ou projetos desafiadores.  
-
-Se você procura alguém que aprende rápido, entrega resultado e resolve problemas, vamos conversar.  
+Aberto a oportunidades como:
+- Desenvolvedor Full Stack
+- Projetos freelancer
+- Trabalho remoto
+- Desafios em desenvolvimento de software
 
 ---
 
-<p align="center">
-🔥 <strong>Transformando ideias em soluções reais</strong> 🔥
-</p>
+## Contato
 
+Email: seu.email@exemplo.com  
+LinkedIn: linkedin.com/in/joaosilva  
+GitHub: github.com/seuusername  
 <!--
 **JoaoPedroSilvaDEV2024/JoaoPedroSilvaDEV2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
