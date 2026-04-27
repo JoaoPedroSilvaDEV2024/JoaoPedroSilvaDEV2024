@@ -91,9 +91,9 @@ Atuar em equipes de engenharia de software desenvolvendo sistemas escaláveis, c
 
 ## 📫 Contato
 
-Email: seu.email@exemplo.com  
-LinkedIn: linkedin.com/in/joaosilva  
-GitHub: github.com/seuusername  
+Email: 
+LinkedIn:
+GitHub: 
 
 ---
 
