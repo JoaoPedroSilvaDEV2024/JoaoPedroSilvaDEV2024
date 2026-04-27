@@ -5,9 +5,9 @@ Desenvolvedor Full Stack • Sistemas Web • APIs • Arquitetura de Software
 </p>
 
 <p align="center">
-<a href="https://github.com/seuusername"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://linkedin.com/in/joaosilva"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:seu.email@exemplo.com"><img src="https://img.shields.io/badge/Contato-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Contato-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
