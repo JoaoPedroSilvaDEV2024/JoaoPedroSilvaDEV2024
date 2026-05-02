@@ -6,7 +6,7 @@ Desenvolvedor Full Stack • Sistemas Web • APIs • Arquitetura de Software
 
 <p align="center">
 <a href="https://github.com/JoaoPedroSilvaDEV2024"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/joão-pedro-0657913ba?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Contato-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
