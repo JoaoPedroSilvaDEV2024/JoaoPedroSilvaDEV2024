@@ -43,25 +43,31 @@ Busco transformar requisitos e problemas reais em **soluções funcionais, efici
 - Integração entre sistemas e serviços
 - Resolução de problemas e melhoria contínua
 
+
 ---
 
 ## ⚙️ Stack
 
 ### 🎨 Front-end
-
-HTML • CSS • JavaScript • TypeScript • React • Next.js
+TypeScript • React • Next.js • Vue.js
 
 ### ⚙️ Back-end
+Node.js • Express • Python • FastAPI • C# • .NET
 
-Node.js • Python • APIs REST
+### 🔗 APIs & Arquitetura
+REST APIs • JWT • RBAC • Autenticação & Autorização • Multi-Tenant
 
-### 🗄️ Banco de dados
+### 🗄️ Bancos de Dados
+PostgreSQL • MySQL • MongoDB
 
-MySQL • PostgreSQL
+### 🧪 QA & Automação
+Pytest • API Testing • Test Automation • QA Automation
 
-### 🛠️ Ferramentas
+### ⚙️ DevOps & Ferramentas
+Git • GitHub • GitLab CI/CD • Docker • Linux • Swagger
 
-Git • GitHub • Linux • Figma
+### 🤖 Inteligência Artificial
+LLMs • APIs de IA • AI Automation
 
 ---
 
