@@ -86,35 +86,51 @@ LLMs • APIs de IA • AI Automation
 
 ## 🚀 Projetos
 
-### 🧠 SpendAI
+### 🔐 SaaS Core API ELITE
 
-Sistema de análise de gastos baseado em dados, desenvolvido com **Python e processamento de informações**.
+API backend profissional para uma plataforma **SaaS Multi-Tenant**, com autenticação, controle de acesso e isolamento de dados entre empresas.
 
-**Tecnologias:** Python • Análise de Dados • Processamento de Informações
-
----
-
-### 🛒 E-commerce Dashboard
-
-Sistema completo com **CRUD, API REST e integração com banco de dados**, desenvolvido para praticar conceitos de desenvolvimento Full Stack.
-
-**Tecnologias:** JavaScript • APIs REST • CRUD • Banco de Dados
+**Tecnologias:** Node.js • TypeScript • Express • PostgreSQL • JWT • RBAC • Swagger
 
 ---
 
-### 🌐 Portfólio Profissional
+### ⚙️ GitLab CI Pipeline Manager
 
-Aplicação web responsiva desenvolvida com foco em **performance, organização visual e experiência do usuário**.
+Aplicação Full Stack que simula um ambiente de **CI/CD**, permitindo executar pipelines, acompanhar logs, consultar históricos e visualizar métricas de sucesso e falha.
 
-**Tecnologias:** HTML • CSS • JavaScript • Responsividade
+**Tecnologias:** Python • FastAPI • React • JavaScript • GitLab CI/CD • Axios
 
 ---
 
-### 🎮 Projetos JavaScript
+### 🧪 AI QA Bot
 
-Aplicações interativas e jogos desenvolvidos para praticar **lógica de programação, manipulação do DOM e desenvolvimento para web**.
+Sistema de **QA Automation** para análise, geração e execução de testes de APIs, com estrutura preparada para integração com Inteligência Artificial.
 
-**Tecnologias:** JavaScript • HTML • CSS • DOM
+**Tecnologias:** Python • FastAPI • Pytest • Requests • API Testing • QA Automation
+
+---
+
+### 📊 BizDash Pro
+
+Dashboard Full Stack de **Business Intelligence** para análise de métricas empresariais, incluindo leads, conversões, receita, ROI e crescimento.
+
+**Tecnologias:** React • Node.js • Express • PostgreSQL • Chart.js • REST API
+
+---
+
+### ✅ TaskFlow Pro
+
+Aplicação **SaaS Full Stack** para gerenciamento de tarefas e equipes, com autenticação, rotas protegidas, CRUD e dashboard.
+
+**Tecnologias:** React • Node.js • Express • PostgreSQL • JWT • Bcrypt
+
+---
+
+### 📈 UIXPanel
+
+Dashboard administrativo desenvolvido com foco em **visualização de dados, componentização e experiência do usuário**, simulando um sistema empresarial.
+
+**Tecnologias:** React • TypeScript • Bootstrap • SCSS • Chart.js • Vite
 
 ---
 
